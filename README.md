@@ -23,7 +23,9 @@ We created a platform that allows users to learn the latest trends as well as st
   <img src="https://github.com/user-attachments/assets/e41ee93a-4bd0-4a31-9b42-e50252aa1bea" alt="" width="45%" />
 </p>
 
-![KakaoTalk_20241112_165712180](https://github.com/user-attachments/assets/f5bc56a4-a30c-47fe-9ede-d88789347f41)
+### 1-2. 결과 미리보기
+
+![KakaoTalk_20241113_114857731](https://github.com/user-attachments/assets/28d2d72b-a6ae-44fe-9980-7d0a89e05d7a)
 
 
 ## 2️⃣ Role
@@ -68,3 +70,9 @@ __3. Application deployment__
 ![image](https://github.com/user-attachments/assets/473a113a-0672-44c8-b826-200e478731e9)
 ![image](https://github.com/user-attachments/assets/9d3e60e8-5a4e-413f-8709-e83764d8ad01)
 
+
+## 5️⃣ Structure
+
+
+
+## 6️⃣ References
