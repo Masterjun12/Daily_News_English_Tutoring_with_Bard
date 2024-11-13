@@ -76,3 +76,7 @@ __3. Application deployment__
 
 
 ## 6️⃣ References
+* https://pypi.org/project/beautifulsoup4/
+* https://coding-factory.tistory.com/998
+* https://github.com/ssut/py-googletrans
+* https://github.com/dsdanielpark/Bard-API
