@@ -67,11 +67,20 @@ __3. Application deployment__
 
 ## 4️⃣ Process
 
-![image](https://github.com/user-attachments/assets/473a113a-0672-44c8-b826-200e478731e9)
+![Chat GPT를 활용한 영어 지문_주제 선택 플랫폼-001](https://github.com/user-attachments/assets/67b2da63-3c7c-41a0-9612-66ff7b9145c5)
 ![image](https://github.com/user-attachments/assets/9d3e60e8-5a4e-413f-8709-e83764d8ad01)
+![플랫폼](https://github.com/user-attachments/assets/ad6acb0b-21c8-4f1e-9c80-9829ad94dd0a)
 
 
 ## 5️⃣ Structure
+```
+Daily_News_English_Tutoring_with_Bard
+
+├── LICENSE
+├── README.md
+└── eng.py
+
+```
 
 
 
