@@ -23,7 +23,7 @@ We created a platform that allows users to learn the latest trends as well as st
   <img src="https://github.com/user-attachments/assets/e41ee93a-4bd0-4a31-9b42-e50252aa1bea" alt="" width="45%" />
 </p>
 
-### 1-2. 결과 미리보기
+### 1-2. 실행 영상
 
 ![KakaoTalk_20241113_114857731](https://github.com/user-attachments/assets/28d2d72b-a6ae-44fe-9980-7d0a89e05d7a)
 
