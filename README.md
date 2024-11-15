@@ -35,7 +35,7 @@ We created a platform that allows users to learn the latest trends as well as st
 |Jeong GangHyeon<br/>[@JUGAHY](https://github.com/JUGAHY)|Jang DaeHyeon<br/>[@JangDaeHyeon](https://github.com/JangDaeHyeon)|Oh YuRim<br/>[@Masterjun12](https://github.com/Masterjun12)|
 
 ### Jeong GangHyeon
-* Crawl news that users are interested in
+* Crawling news that users are interested in
 * Research data and ppt production
   
 ### Jang DaeHyeon
