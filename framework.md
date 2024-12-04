@@ -1,3 +1,4 @@
+```
 project/
 │
 ├── main.py                   # Main file to run the Streamlit application
@@ -6,3 +7,4 @@ project/
 ├── ai_quiz_generator.py      # Responsible for generating quiz questions
 ├── utils.py                  # Common utility functions (optional)
 └── config.py                 # Configuration file (optional)
+```
