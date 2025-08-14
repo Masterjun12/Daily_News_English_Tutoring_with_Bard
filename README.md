@@ -43,7 +43,7 @@ We created a platform that allows users to learn the latest trends as well as st
 * Research data and ppt production
   
 ### Oh YuLim
-* Web Distribution with Streamlit
+* Web Distribution with Streamlit development
 * Research data and ppt production
 
 
